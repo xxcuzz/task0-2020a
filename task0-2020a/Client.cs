@@ -37,7 +37,6 @@ namespace task0_2020a
             }
         }
 
-        public double Sum { get; set; }
         public ETariff Tariff { get; set; }
         CalculateMethod cm;
 
